@@ -1,14 +1,32 @@
+
+###  Hey I'm [Abdallah Ragab!](https://www.linkedin.com/in/abdallah-ragab7/) 👋
+
 <div align ="center">
-### Hey I'm [Abdallah!](https://www.linkedin.com/in/abdallah-ragab7/)
-👋
 <img src="https://github.com/AbdallahRagab7/AbdallahRagab7/assets/91810306/41b42256-7311-4287-9734-f79176bb80ed" alt="Coder GIF" width="500" height="400">
 </div>
 
-<!-- # Hey <img src="https://github.com/AbdallahRagab7/AbdallahRagab7/assets/91810306/41b42256-7311-4287-9734-f79176bb80ed" width="40px" height="40px">, I'm [Abdallah!](https://www.linkedin.com/in/abdallah-ragab7/) -->
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+- Fresh graduate from Faculty of Computer and Data Science
+- Front-end web development
+<br />
+<a href="https://www.linkedin.com/in/abdallah-ragab7/"><img align="left" alt="Abdallah's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
+
+<a href="mailto:a.ragab8882@gmail.com">
+  <img align="left" alt="abdallah's gmail" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" draggable="false" />
+</a>
+
+<br />
+<br />
+
+
+#  🧰 My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,bootstrap,vue,java" />
+  </a>
+</p>
 
 <!--
-**AbdallahRagab7/AbdallahRagab7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
