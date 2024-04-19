@@ -22,7 +22,7 @@
 #  🧰 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,bootstrap,vue,react,redux,java" />
+    <img src="https://skillicons.dev/icons?i=git,java,js,html,css,bootstrap,tailwind,vue,react,redux,tailwind,graphql" />
   </a>
 </p>
 
