@@ -6,8 +6,8 @@
 </div>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
--  Front-end  developer (Vue,React)
--  Frontend Developer skilled in Vue.js and React,
+-  Frontend developer (Vue,React)
+- skilled in Vue.js and React,
 focus on clean, scalable code using TypeScript. Strong in advanced JavaScript concepts and understanding of how JavaScript works behind the scenes, interested in deeply understanding framework internals.
 <br />
 <a href="https://www.linkedin.com/in/abdallah-ragab7/"><img align="left" alt="Abdallah's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
